@@ -1,4 +1,4 @@
-# matlab-visual-servo
+# legacy-matlab-visual-servo
 matlab visual servo (legacy code)
 
 # Copyright: (C) RoboticsLab @ 2013 Universidad Carlos III de Madrid
